@@ -1,0 +1,220 @@
+{
+    "jobs": [
+      {
+        "id": "5",
+        "job_title": "Sales Representative",
+        "location": "Los Angeles",
+        "brief_description": "Looking for a sales representative with excellent communication skills.",
+        "detailed_description": "Responsibilities include identifying and contacting potential clients.",
+        "required_experience": "2"
+      },
+      {
+        "id": "6",
+        "job_title": "Graphic Designer",
+        "location": "Paris",
+        "brief_description": "Hiring a talented graphic designer.",
+        "detailed_description": "Responsibilities include creating visual designs and layouts.",
+        "required_experience": "2"
+      },
+      {
+        "id": "7",
+        "job_title": "Financial Analyst",
+        "location": "Tokyo",
+        "brief_description": "Seeking a financial analyst with strong analytical and mathematical skills.",
+        "detailed_description": "Responsibilities include analyzing financial data and preparing reports.",
+        "required_experience": "4"
+      },
+      {
+        "id": "8",
+        "job_title": "Human Resources Manager",
+        "location": "Berlin",
+        "brief_description": "Looking for an experienced HR manager.",
+        "detailed_description": "Responsibilities include overseeing HR operations and policies.",
+        "required_experience": "5"
+      },
+      {
+        "id": "9",
+        "job_title": "Customer Service Representative",
+        "location": "Sydney",
+        "brief_description": "Hiring a customer service representative with excellent interpersonal skills.",
+        "detailed_description": "Responsibilities include resolving customer inquiries and issues.",
+        "required_experience": "1"
+      },
+      {
+        "id": "10",
+        "job_title": "Product Manager",
+        "location": "Toronto",
+        "brief_description": "Seeking a skilled product manager with a strong business acumen.",
+        "detailed_description": "Responsibilities include defining product strategies and managing the product lifecycle.",
+        "required_experience": "4"
+      },
+      {
+        "id": "11",
+        "job_title": "Web Developer",
+        "location": "Seattle",
+        "brief_description": "Looking for a talented web developer.",
+        "detailed_description": "Responsibilities include designing and developing web applications.",
+        "required_experience": "2"
+      },
+      {
+        "id": "12",
+        "job_title": "Operations Manager",
+        "location": "Singapore",
+        "brief_description": "Hiring an experienced operations manager.",
+        "detailed_description": "Responsibilities include optimizing operational processes and ensuring efficiency.",
+        "required_experience": "5"
+      },
+      {
+        "id": "13",
+        "job_title": "Content Writer",
+        "location": "Mumbai",
+        "brief_description": "Seeking a creative content writer with excellent writing skills.",
+        "detailed_description": "Responsibilities include creating engaging and informative content.",
+        "required_experience": "1"
+      },
+      {
+        "id": "14",
+        "job_title": "IT Support Specialist",
+        "location": "Dubai",
+        "brief_description": "Looking for an IT support specialist with strong technical troubleshooting skills.",
+        "detailed_description": "Responsibilities include providing technical assistance and resolving IT issues.",
+        "required_experience": "2"
+      },
+      {
+        "id": "15",
+        "job_title": "Business Analyst",
+        "location": "Zurich",
+        "brief_description": "Seeking a business analyst with strong analytical and problem-solving skills.",
+        "detailed_description": "Responsibilities include analyzing business processes and recommending improvements.",
+        "required_experience": "3"
+      },
+      {
+        "id": "16",
+        "job_title": "Administrative Assistant",
+        "location": "Seoul",
+        "brief_description": "Hiring an administrative assistant with excellent organizational skills.",
+        "detailed_description": "Responsibilities include managing schedules and handling administrative tasks.",
+        "required_experience": "1"
+      },
+      {
+        "id": "17",
+        "job_title": "Quality Assurance Engineer",
+        "location": "Moscow",
+        "brief_description": "Seeking a quality assurance engineer with a keen eye for detail.",
+        "detailed_description": "Responsibilities include testing and ensuring the quality of software applications.",
+        "required_experience": "2"
+      },
+      {
+        "id": "18",
+        "job_title": "Social Media Manager",
+        "location": "São Paulo",
+        "brief_description": "Looking for a social media manager with experience in managing social media platforms.",
+        "detailed_description": "Responsibilities include creating and executing social media strategies.",
+        "required_experience": "3"
+      },
+      {
+        "id": "19",
+        "job_title": "Network Administrator",
+        "location": "Mexico City",
+        "brief_description": "Seeking a network administrator with strong networking skills.",
+        "detailed_description": "Responsibilities include managing and troubleshooting network infrastructure.",
+        "required_experience": "3"
+      },
+      {
+        "id": "20",
+        "job_title": "UX/UI Designer",
+        "location": "Stockholm",
+        "brief_description": "Hiring a talented UX/UI designer with a strong design portfolio.",
+        "detailed_description": "Responsibilities include creating intuitive and user-friendly interfaces.",
+        "required_experience": "2"
+      },
+      {
+        "id": "21",
+        "job_title": "Research Analyst",
+        "location": "Bangkok",
+        "brief_description": "Seeking a research analyst with strong analytical and research skills.",
+        "detailed_description": "Responsibilities include conducting market research and analyzing data.",
+        "required_experience": "3"
+      },
+      {
+        "id": "22",
+        "job_title": "Operations Analyst",
+        "location": "Santiago",
+        "brief_description": "Looking for an operations analyst with strong analytical and problem-solving skills.",
+        "detailed_description": "Responsibilities include analyzing operational data and identifying areas for improvement.",
+        "required_experience": "2"
+      },
+      {
+        "id": "23",
+        "job_title": "Content Marketing Manager",
+        "location": "Cape Town",
+        "brief_description": "Seeking a content marketing manager with experience in developing content strategies.",
+        "detailed_description": "Responsibilities include planning and executing content marketing campaigns.",
+        "required_experience": "4"
+      },
+      {
+        "id": "24",
+        "job_title": "Data Scientist",
+        "location": "Amsterdam",
+        "brief_description": "Looking for a data scientist with advanced statistical and machine learning skills.",
+        "detailed_description": "Responsibilities include analyzing complex data sets and developing predictive models.",
+        "required_experience": "5"
+      },
+      {
+        "id": "25",
+        "job_title": "Sales Manager",
+        "location": "Hong Kong",
+        "brief_description": "Seeking an experienced sales manager with a proven track record in achieving sales targets.",
+        "detailed_description": "Responsibilities include leading the sales team and driving revenue growth.",
+        "required_experience": "4"
+      },
+      {
+        "id": "26",
+        "job_title": "Writter",
+        "location": "Indonesia",
+        "brief_description": "Seeking a skilled software engineer",
+        "detailed_description": "Responsibilities include developing",
+        "required_experience": "1"
+      },
+      {
+        "job_title": "Marketing Specialist",
+        "location": "Chicago",
+        "brief_description": "Seeking a creative marketing specialist.",
+        "detailed_description": "Responsibilities include developing marketing campaigns and strategies.",
+        "required_experience": 10,
+        "id": "rhAAjTI"
+      },
+      {
+        "job_title": "home teacher",
+        "location": "San Francisco",
+        "brief_description": "good leader",
+        "detailed_description": "good person",
+        "required_experience": 1,
+        "id": "XcMviMO"
+      },
+      {
+        "job_title": "musisi",
+        "location": "San Francisco",
+        "brief_description": "good voice",
+        "detailed_description": "nice",
+        "required_experience": 1,
+        "id": "h8oROkv"
+      },
+      {
+        "job_title": "Marketing Specialist",
+        "location": "Chicago",
+        "brief_description": "Seeking a creative marketing specialist.",
+        "detailed_description": "Responsibilities include developing marketing campaigns and strategies.",
+        "required_experience": 12,
+        "id": "_CFKg4j"
+      },
+      {
+        "job_title": "aktror",
+        "location": "San Francisco",
+        "brief_description": "good actror",
+        "detailed_description": "good angel",
+        "required_experience": 1,
+        "id": "laqO9MA"
+      }
+    ]
+  }
